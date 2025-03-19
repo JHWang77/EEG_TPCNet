@@ -1,4 +1,4 @@
 # EEG_TPCNet
-TPCNet: A Method for Recognizing Motor Imagery in Stroke Patients Based on EEG Periodicity
+TPC-Net: A Temporal Periodicity Convolutional Network  for Motor Imagery EEG Decoding in Stroke Patients
 
 To promote transparency and reproducibility in scientific research, the code used in this study will be made publicly available upon the acceptance of the paper. 
